@@ -1,0 +1,10 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Google Venezuela</ShortName>
+<Description>Buscar usando Google Venezuela</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">
+data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAZiS0dEAC0AIgC9TgsNdQAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9oIBxc0MSFLoKkAAAJBSURBVDjLjZNNSFRRFMd/9834RudD00nDihSKNCqNpI0titq0SaVNRdCudVFCizatolXQrmgVtC5cWlBguXFh2IdoISSmzqij8z3z7ntzT4s3YwqJ/TcXzvmf3zn3S4mIAOQd4dFogrW0w+2LbRw/EAYgfWeYgGQAwZcCBYigjaBqgIfvUoxOF9E5h8YGjw/3ugEwGxkyQ+d9gFIg/qqAsjFYVSwLmQoQABVkZVkztVAAwGpuQrUc8U1Sg4CIYIz8BZTLLm5RU3E0xhNGJtdrKaxTvdXpVTUiVAS0bAGc67TR2RI6r/HKrt+tqtzYR4z4W0cET/zxtRGCNdPVvmaevlnELXgEQsLNs60AJJd+8PrMMqmjDcx2NJDXQnQmR/xnkYFxg3o5lpCBvjh7wkF+rTmMTKYYOt1Cx9565tNzPJkYpi6So2QMaS3kNFS0UNGC5xjU9cefZWqlxI3+Vi73tXGys9HvnE+yL9DObrIQTSmV5sXILA9efd1MROwI/yNLvCwVZ4Ou/Yp6nSNbcACI2lEKweyuADXxbVG6O+PEIqF/GvI6T/+xiW2xL3MX6Dn83geIiIibobDwHC/zCVVaxSsZ7INXiHXdB2Apn+BS7/S2whpIiYgkxgYJe0nskOU/cw/yOQ916BrxnrsA2wq3Kgigk7+JNNXhicFC4blCwIC3NrlpfLsyuDPAjrXjllexFCgEBKyKoi7s/4H5TILQTocoIqLXZyh+f4a7NI4CLDuM3TFE+MQtLDtKIhbb8Rb+ACm8IBQmoKgeAAAAAElFTkSuQmCC
+</Image>
+<Url type="text/html" method="GET" template="http://www.google.co.ve/search?hl=es&q={searchTerms}"/>
+<Url type="application/x-suggestions+json" method="GET" template="http://suggestqueries.google.com/complete/search?output=firefox&client=firefox&hl=es&q={searchTerms}"/>
+</OpenSearchDescription>
